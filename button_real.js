@@ -1,3 +1,4 @@
+
 document.getElementById('requested_item_values_55_requested_item_value_attributes_cf_ponto_de_entrada_162904').onclick = function setStartTime() {
         document.getElementById('requested_item_values_55_requested_item_value_attributes_cf_entrada_162904_time').value =
             new Date().toLocaleTimeString(navigator.language, {
