@@ -1,5 +1,4 @@
 <script>
-if (window.location.href = "https://claracloud.freshservice.com/support/catalog/items/55") {
     
     document.getElementById('requested_item_values_55_requested_item_value_attributes_cf_ponto_de_entrada_162904').onclick = function setStartTime() {
         document.getElementById('requested_item_values_55_requested_item_value_attributes_cf_entrada_162904_time').value =
@@ -24,5 +23,4 @@ if (window.location.href = "https://claracloud.freshservice.com/support/catalog/
         document.getElementById('requested_item_values_55_requested_item_value_attributes_cf_entrada_162904_date').value =
             new Date().toLocaleDateString();
     }
-}
 </script>
